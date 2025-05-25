@@ -90,3 +90,8 @@ hdfs dfs -cat /kmeans_output/iter_10/part-r-00000
 ```
 
 每行表示一个质心，第一列是质心ID，后面是该质心的坐标值（16维向量）。
+
+结果目前从HDFS下载到当前文件 `output` 目录下。
+
+
+
