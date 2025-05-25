@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/opt/hadoop-3.3.6/share/hadoop/common/hadoop-common-3.3.6.jar",
+        "/opt/hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-common-3.3.6.jar",
+        "/opt/hadoop-3.3.6/share/hadoop/common/lib/commons-cli-1.2.jar",
+        "/opt/hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.6.jar",
+        "/opt/hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.3.6.jar",
+    ]
+}
